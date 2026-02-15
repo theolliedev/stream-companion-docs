@@ -30,4 +30,11 @@ You can setup custom triggers, which allows the bot to respond to many events. I
 3. Double click on the action called **Set argument %aiPrompt%** and change the value to what you want the bot to do. In this case, I will set it to `Give a shoutout to %input0%`.
 4. Since this is a shoutout command, I will also add a new action that triggers a **Twitch Shoutout**, in the case, right click and select **Add** > **Twitch** > **Moderation** > **Send Shoutout**, then set the value to `%input0%`.
 
-With this configuration, you should be able to use the `!so @username` command to send a shoutout to a user, and the bot will give a response with all the information it gets.
+## Give instructions to the AI
+
+The bot currently doesn't know what a shoutout really means, so I suggest you adding instructions explaining it. Here is what I added:
+
+```
+-When asked to give a shoutout, you are giving a Twitch shoutout, the information you are getting is from a previous stream, you must say that they were playing the game last stream.
+-When asked to give a shoutout, be sure to be full of emojis and emotion, but don't put tags/hashtags.
+```

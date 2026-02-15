@@ -2,12 +2,13 @@
 
 This application is made to work with any streaming application, but as I am using Streamer.Bot for my own use, I will only be focusing on that.
 
-## What you will need
+## Requirements
 - OpenAI API key ([OpenAI Api Platform](https://platform.openai.com/account/api-keys))
 - Streamer.Bot
 - Speaker.Bot (optional)
+> **Note:** OpenAI vs ChatGPT subscription are different, you need to have a OpenAI account with billing configured to be able to use the AI Model.
 
-## First Steps
+## Installation
 1. Download the latest release from [here](https://github.com/theolliedev/stream-companion/releases) and install it.
 2. Run the application, in the **Integration** section, click **Setup** under **OpenAI**.
 
