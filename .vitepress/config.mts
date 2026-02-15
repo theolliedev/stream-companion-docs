@@ -21,6 +21,7 @@ export default defineConfig({
       {
         text: 'Customization',
         items: [
+          { text: "Customize the AI's behaviour", link: '/guide/ai-behavior' },
           { text: 'Setup custom triggers', link: '/guide/custom-triggers' }
         ]
       }

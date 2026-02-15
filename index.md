@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: Endless possibilities
-    details: You can set up your ai to respond to redeems, give shoutouts, custom events and more!
+    details: You can setup your ai to respond to redeems, give shoutouts, custom events and more!
   - title: Compatibility
     details: You can connect the ai to any streaming application compatible with the websocket protocol.
   - title: Interactive (coming soon)

@@ -50,7 +50,7 @@ U0JBRR+LCAAAAAAABADlW1lz2zgSft+q/Q8qV2Wflh4QvFO1D5Fs63CiRPexngcQACXGPDQkJVmeyn/f
 
 ![Action Triggers](/guide/streamerbot-configuration/8-triggers.png)
 
-4. Set up the name, description, cost, and cooldown of the reward. Then make sure to enable **User Input Required** and click **Create**, then click **Ok** to save.
+4. Setup the name, description, cost, and cooldown of the reward. Then make sure to enable **User Input Required** and click **Create**, then click **Ok** to save.
 
 ![Create Redeem](/guide/streamerbot-configuration/9-redeem.png)
 
